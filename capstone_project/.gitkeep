@@ -1,0 +1,24 @@
+# Capstone Research Paper Project
+
+This folder will contain your final capstone research paper and all supporting materials.
+
+## Project: "Bitcoin's Fee Market: A Multi-Factor Analysis"
+
+Analyzing correlations between:
+- Bitcoin transaction fees and blockspace demand
+- Federal Reserve interest rates
+- Global liquidity conditions
+- Lightning Network adoption
+
+## Timeline:
+November-December 2026 (6-8 weeks)
+
+## Final Deliverables:
+- research_paper.pdf (20-25 pages)
+- analysis.ipynb (Jupyter notebook with all code)
+- data/ folder (all datasets)
+- charts/ folder (all visualizations)
+- README.md (project documentation)
+
+See `/CAPSTONE_RESEARCH_PAPER.md` for complete instructions.
+
